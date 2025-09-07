@@ -1,3 +1,17 @@
+a{
+    background-color: yellow;
+}
+a:hover{
+    background-color: red;
+}
+
+tr:nth-child(odd){
+    background-color: red;
+}
+tr:nth-child(odd){
+    background-color: blue;
+}
+
 div{
     background-color: rgba(255, 0, 0, 0.4);
     border-radius: 10px;
